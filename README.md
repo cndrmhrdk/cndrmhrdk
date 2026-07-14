@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" height="180" style="object-fit:cover; filter: sepia(40%);"/>
+<img src="https://ingridolvares.tumblr.com/post/689156132105797632" width="100%" height="180" style="object-fit:cover; filter: sepia(40%);"/>
 
 <br/>
 
