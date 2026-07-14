@@ -39,11 +39,6 @@
 **On this page you'll find** — a name, a mood, and very little else. The rest is still being drafted, in longhand, by candlelight, the way anything worth finishing should be.
 
 </td>
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/xUOxf48UBRK9DFYAdC/giphy.gif" width="240" style="border: 1px solid #4a3f35;"/>
-
-</td>
 </tr>
 </table>
 
