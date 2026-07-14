@@ -1,45 +1,57 @@
 <div align="center">
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Cander&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20little%20corner%20of%20GitHub&descAlignY=55&descSize=18" width="100%"/>
-
-<!-- Typing animation -->
-<a href="https://github.com/cndrmhrdk">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Gimme+something+to+eat+please...;anything+will+do+%F0%9F%8D%9C;welcome+to+my+profile+%E2%9C%A8;let's+build+something+fun+together" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=cndrmhrdk&label=Profile%20Views&color=a678f0&style=flat" alt="profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/cndrmhrdk?label=Followers&style=flat&color=blueviolet" alt="followers" />
+<!-- Glitchy CRT-style banner instead of a wave -->
+<img src="https://media.giphy.com/media/26ufp2Ph8mqocD5vG/giphy.gif" width="100%" height="180" style="object-fit:cover;"/>
 
 </div>
 
-<br/>
-
-<!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+<pre align="center">
+ ██████╗ █████╗ ███╗   ██╗██████╗ ███████╗██████╗ 
+██╔════╝██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔══██╗
+██║     ███████║██╔██╗ ██║██║  ██║█████╗  ██████╔╝
+██║     ██╔══██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗
+╚██████╗██║  ██║██║ ╚████║██████╔╝███████╗██║  ██║
+ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+</pre>
 
 <div align="center">
-  
-### 🌙 A little about the vibe here
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&lines=%3E+booting+cndrmhrdk.exe...;%3E+loading+personality...+done;%3E+loading+snacks...+FAILED+%3A(;%3E+status%3A+still+hungry;%3E+welcome%2C+intruder." alt="terminal typing" />
 
 </div>
 
-<table align="center">
+<br/>
+
+<div align="center">
+
+┌──────────────────────────────────────────────┐
+│&nbsp;&nbsp;&nbsp;&nbsp;whoami&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│
+└──────────────────────────────────────────────┘
+
+**not a coder. not a hacker. just someone who exists on the internet and occasionally pushes commits at 2am.**
+
+</div>
+
+<br/>
+
+<table align="center" border="0">
 <tr>
-<td width="60%" valign="middle">
+<td width="50%" valign="top">
 
-I like to keep things simple, a little moody, and always evolving — this profile grows as I do. Stop by, star something, or just say hi 👋
+### 📼 status.log
 
-Currently figuring things out one commit at a time. More about *what* I actually build is coming soon — for now, enjoy the aesthetics ✨
+```txt
+[ mood     ] mysterious, slightly chaotic
+[ location ] somewhere behind a blindfold
+[ current  ] plotting my next profile update
+[ craving  ] literally anything edible
+[ vibe     ] 🌘 nocturnal
+```
 
 </td>
-<td width="40%" align="center">
+<td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/lucifer9683/lucifer9683/master/coding.gif" width="260"/>
+<img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="260"/>
 
 </td>
 </tr>
@@ -47,52 +59,55 @@ Currently figuring things out one commit at a time. More about *what* I actually
 
 <br/>
 
-<!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+<div align="center">
+
+### 🎲 today's random unlock
+
+<img src="https://readme-quote-svg.vercel.app/api?type=random&theme=github_dark&width=550" alt="random quote"/>
+
+<sub>*(refreshes every time someone visits — nobody knows what's coming next)*</sub>
+
+</div>
+
+<br/>
+
+<details align="center">
+<summary><b>🔒 click if you dare (achievement log)</b></summary>
+<br/>
+
+| badge | unlocked for |
+|---|---|
+| 🏆 `Certified Snack Enthusiast` | surviving on vibes and instant noodles |
+| 🌙 `Professional Night Owl` | most commits happen after midnight |
+| 🎭 `Master of Mystery` | still hasn't revealed what they actually build |
+| 🧃 `Chronic Procrastinator` | this README took longer than the actual code |
+
+</details>
+
+<br/>
 
 <div align="center">
-  
-### 🔗 Find me elsewhere
+
+### 📡 signal
 
 <a href="https://instagram.com/candrmhrdk" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
 </a>
 <a href="https://linkedin.com/in/cnders" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 <a href="mailto:cndrmhrdka@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-  
-### 📊 Contribution activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cndrmhrdk&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=cndrmhrdk&label=visitors+who+couldn%27t+resist&color=1a1a1a&style=for-the-badge" alt="profile views" />
 
 </div>
 
 <br/>
 
-<!-- Snake contribution animation - needs a GitHub Action, see notes below -->
-<div align="center">
-  
-### 🐍 Contribution snake
-
-<img src="https://raw.githubusercontent.com/cndrmhrdk/cndrmhrdk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>*(this one needs a quick one-time setup — see the note below the fold 👇)*</sub>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-<div align="center">
-<sub>✨ thanks for stopping by ✨</sub>
-</div>
+<pre align="center">
+&lt;/ end of transmission &gt;
+</pre>
