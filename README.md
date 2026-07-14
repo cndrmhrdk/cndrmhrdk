@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ingridolvares.tumblr.com/post/689156132105797632" width="100%" height="180" style="object-fit:cover; filter: sepia(40%);"/>
+<img src="https://i.pinimg.com/originals/74/52/4f/74524f06ed2d785ee69f5471fcf6a96e.gif" width="100%" height="180" style="object-fit:cover; filter: sepia(40%);"/>
 
 <br/>
 
@@ -79,7 +79,7 @@
 
 ### a passage, chosen at random
 
-<img src="https://readme-quote-svg.vercel.app/api?type=random&theme=solarized_dark&width=560" alt="quote of the visit"/>
+"Reality continues to ruin my life."
 
 <sub><i>the library reshelves itself with every visit</i></sub>
 
